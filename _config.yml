@@ -1,0 +1,14 @@
+layout_spectrum: 0.9232258957345039
+typography_spectrum: 0.654803425539285
+color:
+  brandStrength: 0.30546785541810095
+  lightness: 0.7266924732830375
+  saturation: 0.20683898613788188
+  rhythmicContrast: 0.3968556700274348
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Panorama
