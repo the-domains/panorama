@@ -1,4 +1,3 @@
-layout_spectrum: 0.9232258957345039
 typography_spectrum: 0.654803425539285
 color:
   brandStrength: 0.30546785541810095
@@ -11,4 +10,9 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.9232258957345039
+author:
+  name: Mario Garcia
+  email: m1garcia@hotmail.com
 name: Panorama
+title: All things digital
