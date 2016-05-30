@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-29T15:01:48.747Z'
+datePublished: '2016-05-30T02:08:05.110Z'
 sourcePath: _posts/2016-04-16-design-indaba-2016-interview-with-jaime-hayon.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/design/interview-designer-jaime-haydon-design-indaba'
@@ -17,7 +17,7 @@ keywords:
   - 21st
 related: []
 author: []
-dateModified: '2016-05-29T15:01:48.422Z'
+dateModified: '2016-05-30T02:08:04.243Z'
 title: 'Design Indaba 2016: Interview With Jaime Hayon'
 app_links: []
 publisher:
@@ -28,7 +28,7 @@ publisher:
 description: "It's four o'clock in the morning and Jaime Hayon is still going full speed, sitting on a couch in Cape Town, candidly telling us about the time he tattooed one of the world's top tattoo artists. Had he ever inked somebody before? Nope, and he never did again."
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
