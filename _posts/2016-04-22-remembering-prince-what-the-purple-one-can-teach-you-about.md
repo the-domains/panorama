@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-29T15:01:48.729Z'
+datePublished: '2016-05-30T02:08:05.253Z'
 sourcePath: _posts/2016-04-22-remembering-prince-what-the-purple-one-can-teach-you-about.md
 inFeed: true
 isBasedOnUrl: 'https://www.entrepreneur.com/article/274499'
@@ -27,7 +27,7 @@ author:
   - name: Linda Lacina
     url: 'https://www.entrepreneur.com/author/linda-lacina'
     avatar: {}
-dateModified: '2016-05-29T15:01:47.813Z'
+dateModified: '2016-05-30T02:08:04.393Z'
 title: 'Remembering Prince: What The Purple One Can Teach You About Creativity'
 app_links: []
 publisher:
@@ -38,7 +38,7 @@ publisher:
 description: "Join Entrepreneur and today's most influential business innovators in Denver, May 4. Register Now \" Prince, a pioneering musician and creative, died today at 57. This game-changing artist merged his special take on funk and rock into 39 albums, creating classics such as Purple Rain and Little Red Corvette."
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
