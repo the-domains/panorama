@@ -1,11 +1,11 @@
 ---
 description: 'Yes we need this! The real thing is difficult to process'
-dateModified: '2016-05-29T16:45:28.048Z'
-datePublished: '2016-05-30T01:59:20.780Z'
+dateModified: '2016-05-30T02:08:04.163Z'
+datePublished: '2016-05-30T02:08:05.003Z'
 title: 'Virtual Reality '
 author: []
-starred: false
 sourcePath: _posts/2016-05-30-virtual-reality.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
