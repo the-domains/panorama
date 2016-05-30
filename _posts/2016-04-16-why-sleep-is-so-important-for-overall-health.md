@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-29T15:01:48.728Z'
+datePublished: '2016-05-30T02:08:05.161Z'
 sourcePath: _posts/2016-04-16-why-sleep-is-so-important-for-overall-health.md
 inFeed: true
 isBasedOnUrl: 'http://www.huffingtonpost.com/sonimacom/why-sleep-is-so-important-for-overall-health_b_9676412.html?utm_hp_ref=healthy-living'
@@ -17,7 +17,7 @@ keywords:
   - overall
 related: []
 author: []
-dateModified: '2016-05-29T15:01:48.188Z'
+dateModified: '2016-05-30T02:08:04.305Z'
 title: Why Sleep Is So Important For Overall Health
 app_links:
   - url: 'huffpostnews:///?editionID=us&entryID=9676412'
@@ -37,7 +37,7 @@ publisher:
 description: 'Around the world, human beings have sleep deficit. Learn why getting the right amount of rest can revitalize your body and lead to overall increase in health and wellness. With an estimated 60 million Americans suffering from insomnia, sleep is something many of us are lacking.'
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
