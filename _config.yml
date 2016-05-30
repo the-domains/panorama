@@ -1,15 +1,15 @@
-typography_spectrum: 0.654803425539285
+typography_spectrum: 0.019700672943145037
 color:
-  brandStrength: 0.30546785541810095
-  lightness: 0.7266924732830375
-  saturation: 0.20683898613788188
-  rhythmicContrast: 0.3968556700274348
+  brandStrength: 0.27585651469416916
+  lightness: 0.5518766511231661
+  saturation: 0.19506167969666421
+  rhythmicContrast: 0.9592425138689578
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 layout_spectrum: 0.9232258957345039
 author:
   name: Mario Garcia
