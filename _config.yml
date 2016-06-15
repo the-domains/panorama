@@ -1,16 +1,16 @@
-typography_spectrum: 0.019700672943145037
+typography_spectrum: 0.3869247867260128
 color:
-  brandStrength: 0.27585651469416916
-  lightness: 0.5518766511231661
-  saturation: 0.19506167969666421
-  rhythmicContrast: 0.9592425138689578
+  brandStrength: 0.24486003862693906
+  lightness: 0.8923781623598188
+  saturation: 0.39933047140948474
+  rhythmicContrast: 0.030364666832610965
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.9232258957345039
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+layout_spectrum: 0.4699632506817579
 author:
   name: Mario Garcia
   email: m1garcia@hotmail.com
