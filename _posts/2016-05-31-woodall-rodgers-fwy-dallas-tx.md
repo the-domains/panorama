@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Mario Garcia
-    url: 'https://www.youtube.com/channel/UCsvbR7yu-sD3GwWhNv_a6KQ'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+datePublished: '2016-06-17T03:11:36.212Z'
+sourcePath: _posts/2016-05-31-woodall-rodgers-fwy-dallas-tx.md
+isBasedOnUrl: 'https://youtu.be/ds_hWf53mRs'
 keywords:
   - duration
   - dallas
@@ -20,8 +13,13 @@ keywords:
   - screwdupclickv2
   - buckeye
   - garcia
-description: View of the Dallas Arts District and skyline.
-inLanguage: en
+related: []
+author:
+  - name: Mario Garcia
+    url: 'https://www.youtube.com/channel/UCsvbR7yu-sD3GwWhNv_a6KQ'
+    avatar: {}
+dateModified: '2016-05-31T15:28:55.514Z'
+title: 'Woodall Rodgers Fwy :: Dallas, Tx'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=ds_hWf53mRs&feature=applinks'
     type: ios
@@ -59,17 +57,19 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/ds_hWf53mRs'
-title: 'Woodall Rodgers Fwy :: Dallas, Tx'
-datePublished: '2016-05-31T13:41:36.907Z'
-dateModified: '2016-05-31T13:38:11.036Z'
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtu.be
+description: View of the Dallas Arts District and skyline.
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-05-31-woodall-rodgers-fwy-dallas-tx.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fds_hWf53mRs%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dds_hWf53mRs&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fds_hWf53mRs%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
